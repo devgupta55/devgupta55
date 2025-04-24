@@ -1,9 +1,10 @@
 <p align="center">
  <!-- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47uvkl0nfjcb3oyvzzlvlcdcfqfcoa7u5xho7n724h&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="50%" style="border-radius:50%"> -->
-  <img src="https://github.com/user-attachments/assets/0ecd76a5-fc5f-4bae-a86e-243a6ed51fbb" width="50%" style="border-radius:50%">
-
+  <!-- <img src="https://github.com/user-attachments/assets/0ecd76a5-fc5f-4bae-a86e-243a6ed51fbb" width="50%" style="border-radius:50%"> -->
+  <img src="https://github.com/user-attachments/assets/95fb512c-6f68-42d0-9e93-b06eb6150b8d" width="50%" style="border-radius:50%">
 </p>
 <h1 align="center">Hi, I'm Dev Gupta 👋</h1>
+
 
 <h2 align="center">🚀 Aspiring <b>Data & Business Analyst</b></h2>
 <h3 align="center">📊 Passionate about <b>turning raw data into impactful decisions</b></h3>
