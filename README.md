@@ -87,4 +87,10 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=yourusername&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<!-- # Programming Humour
+![Jokes Card](https://readme-jokes.vercel.app/api) -->
+
+---
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgupta55&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
+
