@@ -4,11 +4,10 @@
   <img src="https://github.com/user-attachments/assets/95fb512c-6f68-42d0-9e93-b06eb6150b8d" width="30%" style="border-radius:50%">
 </p>
 <h1 align="center">Hi, I'm Dev Gupta 👋</h1>
-
-
-<h2 align="center">🚀 Aspiring <b>Data & Business Analyst</b></h2>
-<h3 align="center">📊 Passionate about <b>turning raw data into impactful decisions</b></h3>
-
+<p align="center"> 
+ 🚀 Aspiring <b>Data & Business Analyst</b><br>
+ 📊 Passionate about <b>turning raw data into impactful decisions</b>
+</p>
 
 # ✅ **Certified Skills**:  
 
