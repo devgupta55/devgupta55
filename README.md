@@ -55,21 +55,24 @@
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 1. [Amazon E-Commerce Analytics](https://github.com/yourusername/Amazon-E-Commerce-Analytics-Advanced-SQL-Power-BI-Insights)  
-**Tech**: `Advanced SQL` `Power BI` `DAX` `Data Modeling`  
-- Analyzed 10M+ rows of e-commerce data to identify sales trends and customer behavior.  
-- Built interactive dashboards showcasing revenue KPIs, regional performance, and product analytics.  
+### 🔎 [Amazon E-Commerce Analytics](https://github.com/yourusername/Amazon-E-Commerce-Analytics-Advanced-SQL-Power-BI-Insights)  
+🛠 `Advanced SQL` | `Power BI` | `DAX` | `Data Modeling`  
+📌 Deep-dive into sales trends, top-performing products, and regional performance using Power BI dashboards.
 
-## 2. [Blinkit Grocery Insights Dashboard](https://github.com/yourusername/Blinkit_PowerBI_Dashboard)  
-**Tech**: `Power BI` `Power Query` `Data Cleaning`  
-- Transformed messy CSV data into a dynamic dashboard tracking inventory turnover, delivery performance, and customer demographics.  
+---
 
-## 3. [Zomato Advanced SQL Analysis](https://github.com/yourusername/Zomato-Advanced-SQL-Analytics)  
-**Tech**: `PostgreSQL` `Window Functions` `Query Optimization`  
-- Solved 15+ complex business questions using multi-table joins and CTEs.  
-- Analyzed restaurant ratings, cuisine trends, and cost-vs-satisfaction metrics.  
+### 🛒 [Blinkit Grocery Insights Dashboard](https://github.com/yourusername/Blinkit_PowerBI_Dashboard)  
+🛠 `Power BI` | `Power Query` | `Data Cleaning`  
+📌 Created KPI visuals and delivery analysis from messy raw data.
+
+---
+
+### 🍽️ [Zomato SQL Analytics](https://github.com/yourusername/Zomato-Advanced-SQL-Analytics)  
+🛠 `PostgreSQL` | `Window Functions` | `Query Optimization`  
+📌 Analyzed cost vs satisfaction, cuisine trends, and restaurant popularity.
+ 
 
 **[➡️ Explore All Projects](https://github.com/devgupta55?tab=repositories)**
 
