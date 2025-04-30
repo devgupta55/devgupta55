@@ -36,7 +36,8 @@
 
 ## **BI & Visualization**
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -57,22 +58,34 @@
 
 ## 🚀 Featured Projects
 
-### 🔎 [Amazon E-Commerce Analytics](https://github.com/yourusername/Amazon-E-Commerce-Analytics-Advanced-SQL-Power-BI-Insights)  
-🛠 `Advanced SQL` | `Power BI` | `DAX` | `Data Modeling`  
-📌 Deep-dive into sales trends, top-performing products, and regional performance using Power BI dashboards.
+### 🔎 [Amazon E-Commerce Analytics](https://github.com/devgupta55/Amazon-E-Commerce-Analytics-Advanced-SQL-Power-BI-Insights)  
+🛠 `Postgre SQL` | `Advanced SQL` | `Power BI` | `Data Modeling` <br>
+📌 Analyzed over 20,000 sales records from an Amazon-like platform using advanced SQL techniques to uncover insights on customer behavior, product performance, and sales trends, complemented by interactive Power BI dashboards.
 
 ---
 
-### 🛒 [Blinkit Grocery Insights Dashboard](https://github.com/yourusername/Blinkit_PowerBI_Dashboard)  
-🛠 `Power BI` | `Power Query` | `Data Cleaning`  
-📌 Created KPI visuals and delivery analysis from messy raw data.
+### 🛒 [Blinkit Grocery Insights Dashboard](https://github.com/devgupta55/Blinkit_PowerBI_Dashboard)  
+🛠 `Power BI` | `Power Query` | `Data Cleaning` |`DAX` <br>
+📌 Developed an interactive dashboard analyzing Blinkit's sales, customer behavior, and feedback, utilizing dynamic DAX measures, comprehensive data modeling, and customizable filters for in-depth insights.
 
 ---
 
-### 🍽️ [Zomato SQL Analytics](https://github.com/yourusername/Zomato-Advanced-SQL-Analytics)  
-🛠 `PostgreSQL` | `Window Functions` | `Query Optimization`  
-📌 Analyzed cost vs satisfaction, cuisine trends, and restaurant popularity.
- 
+### 🍽️ [Zomato Advanced SQL Analytics](https://github.com/devgupta55/Zomato-Advanced-SQL-Analytics)
+🛠 `PostgreSQL` | `CTEs` | `Window Functions` | `Power BI` <br>
+📌 Solved 20 real-world business problems for Zomato using advanced SQL techniques, including CTEs and window functions, and visualized key insights through interactive Power BI dashboards.
+
+---
+
+### 🏙️ [Airbnb NYC EDA & Visualization](https://github.com/devgupta55/Airbnb-Python-EDA-Visualization) 
+🛠 `Python` | `Pandas` | `Seaborn` | `Matplotlib` <br>
+📌 Conducted comprehensive EDA on Airbnb NYC listings to uncover pricing trends, room type distributions, and neighborhood dynamics through insightful visualizations.
+
+---
+
+### 📈 [CryptoCurrency ETL & Email Automation](https://github.com/devgupta55/CryptoCurrency-ETL-Email-Automation-Project)
+🛠 `Python` | `CoinGecko API` | `Pandas` | `SendGrid` <br>
+📌 Automated daily ETL pipeline that fetches live crypto market data, identifies top gainers and losers, and delivers insights via HTML-formatted emails using SendGrid.
+
 
 **[➡️ Explore All Projects](https://github.com/devgupta55?tab=repositories)**
 
@@ -84,7 +97,7 @@
 
 ---
 
-# ✍️ Random Quote
+# 🧠 Random Code Thought
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
