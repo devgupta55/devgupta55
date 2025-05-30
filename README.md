@@ -13,7 +13,7 @@
 
 - **Advanced SQL** (Complex Queries, Joins, CTEs, Window Functions)  
 - **Power BI** (DAX, Data Modeling, Interactive Dashboards)
-- **Advanced Excel** (PivotTables, Power Query)  
+- **Advanced Excel** (PivotTables, Power Query, VBA, Macros)  
 - **Python** (Pandas, NumPy, Seaborn, Matplotlib)
 
 
