@@ -86,6 +86,9 @@
 🛠 `Python` | `CoinGecko API` | `Pandas` | `SendGrid` <br>
 📌 Automated daily ETL pipeline that fetches live crypto market data, identifies top gainers and losers, and delivers insights via HTML-formatted emails using SendGrid.
 
+### 📊 [SuperStore Sales Analysis Dashboard](https://github.com/devgupta55/SuperStoreAnalysis_ExcelDashboard)  
+🛠 `Excel` | `Power Query` | `PivotTables` | `VBA` | `Slicers`  
+📌 Built a fully interactive dashboard from raw Kaggle data with dynamic KPI cards, slicer-driven filters, and VBA-powered automation to toggle chart views and reset filters — mimicking Power BI interactivity in Excel.
 
 **[➡️ Explore All Projects](https://github.com/devgupta55?tab=repositories)**
 
