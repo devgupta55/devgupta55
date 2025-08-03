@@ -5,7 +5,7 @@
 </p>
 <h1 align="center">Hi, I'm Dev Gupta 👋</h1>
 <p align="center"> 
- 🚀 Aspiring <b>Data & Business Analyst</b><br>
+ <!-- 🚀 Aspiring <b>Data & Business Analyst</b><br> -->
  📊 Passionate about <b>turning raw data into impactful decisions</b>
 </p>
 
