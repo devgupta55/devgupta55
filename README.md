@@ -6,7 +6,7 @@
 <h1 align="center">Hi, I'm Dev Gupta 👋</h1>
 <p align="center"> 
  <!-- 🚀 Aspiring <b>Data & Business Analyst</b><br> -->
- 📊 Passionate about <b>turning raw data into impactful decisions</b>
+ 📊 <b> Business Analyst with hands-on experience in data analysis and BI development. </b>
 </p>
 
 # ✅ **Certified Skills**:  
