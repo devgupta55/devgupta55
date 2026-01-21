@@ -80,7 +80,12 @@
 📌 Analyzed over 20,000 sales records from an Amazon-like platform using advanced SQL techniques to uncover insights on customer behavior, product performance, and sales trends, complemented by interactive Power BI dashboards.
 
 ---
+### 🌦️ [Weather Analytics Dashboard – API Integration](https://github.com/devgupta55/Weather-Analytics-Dashboard-Power-BI-API-Integration-)
 
+🛠 `Power BI` | `API Integration` | `Power Query` | `Data Modeling` | `DAX` <br>
+📌 Built an end-to-end weather analytics dashboard by integrating live weather data from a external API into Power BI. Implemented data transformation using Power Query, designed a structured data model, and created dynamic DAX measures to analyze temperature trends, humidity, and weather conditions across locations.
+
+---
 ### 🛒 [Blinkit Grocery Insights Dashboard](https://github.com/devgupta55/Blinkit_PowerBI_Dashboard)  
 🛠 `Power BI` | `Power Query` | `Data Cleaning` |`DAX` <br>
 📌 Developed an interactive dashboard analyzing Blinkit's sales, customer behavior, and feedback, utilizing dynamic DAX measures, comprehensive data modeling, and customizable filters for in-depth insights.
