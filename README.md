@@ -11,7 +11,8 @@
 
 # ✅ **Certified Skills**:  
 
-- **Advanced SQL** (Complex Queries, Joins, CTEs, Window Functions)  
+- **Advanced SQL** (Complex Queries, Joins, CTEs, Window Functions)
+- **AWS Cloud Fundamentals** (EC2, S3, IAM, RDS, CloudWatch, Pricing & Security)
 - **Power BI** (DAX, Data Modeling, Interactive Dashboards)
 - **Advanced Excel** (PivotTables, Power Query, VBA, Macros)  
 - **Python** (Pandas, NumPy, Seaborn, Matplotlib)
@@ -19,12 +20,19 @@
 
 # 💡 **What I Bring**:  
 - Precision in data cleaning, visualization, and storytelling.  
-- Proven ability to build end-to-end analytics projects (ETL → Dashboarding → Insights).  
+- Proven ability to build end-to-end analytics projects (ETL → Dashboarding → Insights).
+- Cloud-aware analytics mindset with a solid understanding of AWS fundamentals (EC2, S3, RDS, IAM) <br>
+  and how analytics solutions operate in cloud environments.  
 - Strong foundation in finance analytics (FMVA) and business intelligence (BIDA).  
 
 ---  
 
 # 🛠️ Tech Stack
+## **Cloud & Services**
+
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Fundamentals-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
 
 ## **Languages & Databases**
 
@@ -48,6 +56,15 @@
 ---
 
 # 🏆 Certifications  
+---
+
+### ☁️ AWS Certification  
+**Credentialized by Amazon Web Services (AWS)** – *Industry-standard cloud certification*
+
+| [![AWS CCP](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)](https://aws.amazon.com/certification/certified-cloud-practitioner/) |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *Validated understanding of AWS core services (EC2, S3, RDS), cloud security (IAM), pricing models, and shared responsibility framework* |
+
 **Credentialized by CFI (Corporate Finance Institute)** – *Global leader in business analytics and financial education*  
 
 | [![BIDA](https://img.shields.io/badge/BIDA®-Business%20Intelligence%20&%20Data%20Analyst-FF6F00?logo=CFI&logoColor=white&style=for-the-badge)](https://www.corporatefinanceinstitute.com/certifications/business-intelligence-data-analyst-bida/) | [![FMVA](https://img.shields.io/badge/FMVA®-Financial%20Modeling%20&%20Valuation%20Analyst-0077B5?logo=CFI&logoColor=white&style=for-the-badge)](https://www.corporatefinanceinstitute.com/certifications/fmva-financial-modeling-valuation-analyst-certification-fmva-program/) |  
