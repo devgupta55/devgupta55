@@ -95,7 +95,7 @@
 ---
 
 # 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dev%20Gupta-0077B5?logo=linkedin&style=flat)](https://www.linkedin.com/in/dev-gupta55/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dev%20Gupta-0077B5?logo=linkedin&style=flat)](https://www.linkedin.com/in/devgupta0055/)
 [![GitHub](https://img.shields.io/badge/GitHub-Dev%20Gupta-181717?logo=github&style=flat)](https://github.com/devgupta55)
 
 ---
